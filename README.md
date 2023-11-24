@@ -148,14 +148,6 @@ Describe how you could use a different model to solve the same problem, and expl
 Grading
 This assignment will be evaluated against the requirements and assigned a grade according to the following table:
 
-Grade	Points
-A (+/-)	90+
-B (+/-)	80–89
-C (+/-)	70–79
-D (+/-)	60–69
-F (+/-)	< 60
-Submission
-To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
 
 NOTE
 You are allowed to miss up to two Challenge assignments and still earn your certificate. If you complete all Challenge assignments, your lowest two grades will be dropped. If you wish to skip this assignment, click Next, and move on to the next Module.
